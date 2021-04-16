@@ -8,4 +8,5 @@ What I did-
   Added symantics to HTML
   Assured all links went to correct location
   
+  <img src="./horiseon.png" alt="Screen Grab of project"/>
 
